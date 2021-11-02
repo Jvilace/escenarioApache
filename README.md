@@ -1,2 +1,2 @@
 # escenarioApache
-crear un repositorio escenarioApache, descargar en el mediante un clone y ejecutar con un docker-compose up -d
+Crear un repositorio escenarioApache, descargar en él, mediante un clone y ejecutar con un docker-compose up -d
