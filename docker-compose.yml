@@ -11,5 +11,5 @@ services:
             - './conf/sri.asir4all.ss.conf:/etc/apache2/sites-enabled/000-default.conf'
             - './conf/claves_digest.txt:/etc/apache2/claves_digest.txt'
             - './conf/clavesbasicas:/etc/apache2/clavesbasicas' 
-            - './web/blog/:/var/www/'
+            - './web/:/var/www/'
 
